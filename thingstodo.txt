@@ -1,0 +1,7 @@
+1. make git
+2. sync git
+3. add file to loc git
+4. add files to loc git
+5. check status
+6. commit with comments
+7. git push to origin
